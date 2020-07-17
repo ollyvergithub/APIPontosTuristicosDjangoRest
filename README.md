@@ -19,7 +19,7 @@ Versão: 0.1.0
 I) Clone o repositório.
 
 ```console
-$ git clone https://github.com/ollyvergithub/AppReceitasDjango.git
+$ git clone https://github.com/ollyvergithub/APIPontosTuristicosDjangoRest.git
 $ cd back
 ```
 II)  Crie um Virtualenv com Python 3.7
