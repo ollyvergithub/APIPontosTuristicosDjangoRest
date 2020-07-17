@@ -2,7 +2,7 @@
 
 ========
 
-App disponibilizando uma API com diversos enpoints.
+App disponibilizando uma API com diversos endpoints.
 
 - GET
 - POST
