@@ -37,7 +37,7 @@ IV.  Instale as dependências.
 $ pip install -r requirements.txt
 ```
 
-IV.  Execute as migrações
+V.  Execute as migrações
 ```console
 $ python manage.py migrate
 ```
